@@ -1,0 +1,14 @@
+{
+  "name": "easonjin-api",
+  "version": "1.0.0",
+  "description": "Backend API for Eason_Jin's Web - Vercel Serverless Functions",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@vercel/kv": "^3.0.0",
+    "jose": "^5.9.6"
+  }
+}
